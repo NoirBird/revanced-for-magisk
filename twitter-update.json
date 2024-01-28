@@ -1,6 +1,6 @@
 {
   "version": "v10.25.1-release.0",
-  "versionCode": 9,
-  "zipUrl": "https://github.com/NoirBird/revanced-for-magisk/releases/download/9/twitter-revanced-magisk-v10.25.1-release.0-all.zip",
+  "versionCode": 10,
+  "zipUrl": "https://github.com/NoirBird/revanced-for-magisk/releases/download/10/twitter-revanced-magisk-v10.25.1-release.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/NoirBird/revanced-for-magisk/update/build.md"
 }
